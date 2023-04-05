@@ -1,4 +1,30 @@
 body {
-  background-color: #DDD;
+  background-color: #ddd;
   margin: 0;
+}
+
+.cool-link {
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;
+  text-decoration: none;
+  background: linear-gradient(
+      to right,
+      #222,
+      #222
+    ),
+    linear-gradient(
+      to right,
+      rgba(255, 0, 0, 1),
+      rgba(255, 0, 180, 1),
+      rgba(0, 100, 200, 1)
+    );
+  background-size: 100% 2.5rem, 0 2.5rem;
+  background-position: 100% 100%, 0 100%;
+  background-repeat: no-repeat;
+  transition: background-size 400ms;
+}
+
+.cool-link:hover {
+  background-size: 0 2.5rem, 100% 2.5rem;
 }

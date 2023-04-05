@@ -11,6 +11,7 @@ export default function Index() {
         fontFamily: "system-ui, sans-serif",
         lineHeight: "1.4",
         display: "flex",
+        flexDirection: "column",
         justifyContent: "center",
         alignItems: "center",
         height: "100vh",
@@ -23,6 +24,11 @@ export default function Index() {
           width: "256px",
         }}
       />
+      <div style={{ paddingTop: "1rem" }}>
+        <a className="cool-link" href="https://www.strava.com/clubs/nouns">
+          JOIN THE CREW
+        </a>
+      </div>
     </div>
   );
 }
