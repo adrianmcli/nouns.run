@@ -26,7 +26,7 @@ export default function Index() {
       />
       <div style={{ paddingTop: "1rem" }}>
         <a className="cool-link" href="https://www.strava.com/clubs/nouns">
-          JOIN THE CREW
+          &nbsp;JOIN THE CREW&nbsp;
         </a>
       </div>
       <div style={{ paddingTop: "1rem", textAlign: "center" }}>
