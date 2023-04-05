@@ -30,9 +30,11 @@ export default function Index() {
         </a>
       </div>
       <div style={{ paddingTop: "1rem", textAlign: "center" }}>
-        Our first run will be in Tokyo on 4/14.
+        <span style={{ color: "red" }}>
+          <b>Next event:</b> Tokyo on 4/14 at 12:00.
+        </span>
         <br />
-        Event details in the link above.
+        Details in the link above.
         <br />
         <span style={{ fontWeight: "bold", fontStyle: "italic" }}>
           Let's get running!
