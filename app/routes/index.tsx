@@ -29,6 +29,15 @@ export default function Index() {
           JOIN THE CREW
         </a>
       </div>
+      <div style={{ paddingTop: "1rem", textAlign: "center" }}>
+        Our first run will be in Tokyo on 4/14.
+        <br />
+        Event details in the link above.
+        <br />
+        <span style={{ fontWeight: "bold", fontStyle: "italic" }}>
+          Let's get running!
+        </span>
+      </div>
     </div>
   );
 }
