@@ -13,8 +13,9 @@ export const meta: MetaFunction = () => ({
   title: "Nouns Running Club",
   viewport: "width=device-width,initial-scale=1",
   "twitter:card": "summary_large_image",
+  "twitter:image": "https://www.nouns.run/preview.png",
   "og:description": "A Nounish running club for everyone!",
-  "og:image": "http://nouns.run/preview.png",
+  "og:image": "https://www.nouns.run/preview.png",
 });
 
 export default function App() {
