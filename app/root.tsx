@@ -11,9 +11,11 @@ import {
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
   title: "Nouns Running Club",
+  description: "A Nounish running club for everyone!",
   viewport: "width=device-width,initial-scale=1",
   "twitter:card": "summary_large_image",
   "twitter:image": "https://www.nouns.run/preview.png",
+  "og:title": "Nouns Running Club",
   "og:description": "A Nounish running club for everyone!",
   "og:image": "https://www.nouns.run/preview.png",
 });
