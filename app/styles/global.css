@@ -5,6 +5,7 @@ body {
 
 .cool-link {
   color: white;
+  font-style: italic;
   font-size: 2rem;
   font-weight: bold;
   text-decoration: none;
@@ -22,7 +23,7 @@ body {
   background-size: 100% 2.5rem, 0 2.5rem;
   background-position: 100% 100%, 0 100%;
   background-repeat: no-repeat;
-  transition: background-size 400ms;
+  transition: background-size 200ms;
 }
 
 .cool-link:hover {
