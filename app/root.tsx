@@ -10,8 +10,11 @@ import {
 
 export const meta: MetaFunction = () => ({
   charset: "utf-8",
-  title: "New Remix App",
+  title: "Nouns Running Club",
   viewport: "width=device-width,initial-scale=1",
+  "twitter:card": "summary_large_image",
+  "og:description": "A Nounish running club for everyone!",
+  "og:image": "http://nouns.run/preview.png",
 });
 
 export default function App() {
