@@ -39,6 +39,11 @@ export default function Index() {
         <span style={{ fontWeight: "bold", fontStyle: "italic" }}>
           Let's get running!
         </span>
+        <br />
+        <div style={{ paddingTop: "1rem" }}>
+          Oh btw, we have a{" "}
+          <a href="https://t.me/+Gi3bOa9dpTNjNjY5">Telegram Group!</a>
+        </div>
       </div>
     </div>
   );
