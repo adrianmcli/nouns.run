@@ -30,9 +30,9 @@ export default function Index() {
         </a>
       </div>
       <div style={{ paddingTop: "1rem", textAlign: "center" }}>
-        <span style={{ color: "red" }}>
+        {/* <span style={{ color: "red" }}>
           <b>Next event:</b> Tokyo on 4/14 at 12:00.
-        </span>
+        </span> */}
         <br />
         Details in the link above.
         <br />
