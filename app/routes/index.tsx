@@ -41,9 +41,8 @@ export default function Index() {
         </span>
         <br />
         <div style={{ paddingTop: "1rem" }}>
-          Come join us on the{" "}
-          <a href="https://t.me/+Gi3bOa9dpTNjNjY5">Telegram Group!</a> and
-          follow us on <a href="https://twitter.com/nounsrc">Twitter</a>!
+          Come join us on <a href="https://t.me/+Gi3bOa9dpTNjNjY5">Telegram</a>{" "}
+          and follow us on <a href="https://twitter.com/nounsrc">Twitter</a>!
         </div>
       </div>
     </div>
